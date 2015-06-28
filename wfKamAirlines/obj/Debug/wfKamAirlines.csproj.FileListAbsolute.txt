@@ -1,0 +1,241 @@
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanları.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\HISection-2\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\ASUS\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\HISection-2\Desktop\25,05,2015\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+C:\Users\HISection-2\Desktop\wfKamAirlines\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+C:\Users\ASUS\Desktop\KAM\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\HISection-2\Desktop\030620151218\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\HISection-2\Desktop\05062015\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+F:\ \5.6.2015\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatis.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+F:\ \5.6.2015\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+F:\ \5.6.2015\05062015\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+F:\ \5.6.2015\05062015\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatisSorgulama.resources
+F:\ \5.6.2015\05062015\wfKamAirlines\obj\Debug\wfKamAirlines.frmRaporlama.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmRaporlama.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatis.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatisSorgulama.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ppp\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\bin\Debug\wfKamAirlines.exe.config
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\bin\Debug\wfKamAirlines.exe
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\bin\Debug\wfKamAirlines.pdb
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\bin\Debug\en\wfKamAirlines.resources.dll
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmGorev.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmHavaAlanlari.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmLogin.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteri.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmMusteriSorgulama.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonel.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelSorgulama.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmPersonelHareketleri.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmRaporlama.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatis.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmSatisSorgulama.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcak.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcakSorgu.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmUcus.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmYetki.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.Properties.Resources.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.frmAnaSayfa.en.resources
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\wfKamAirlines.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\KamAirLines\wfKamAirlines\obj\Debug\en\wfKamAirlines.resources.dll
